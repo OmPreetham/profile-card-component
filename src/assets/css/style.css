@@ -100,6 +100,7 @@ article:nth-of-type(2),
 .location {
   margin-top: 0.7rem;
   font-size: 0.8rem;
+  color: var(--dark-gray);
 }
 
 .name-age-container {
