@@ -2,6 +2,8 @@
 
 This project is a solution to the [Profile Card Component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) challenge from Frontend Mentor, built with Vite + React.
 
+![Preview](/public/preview.png)
+
 ### The Challenge
 
 The challenge was to build a profile card component and make it as close to the design as possible. The design includes a profile picture, user name and social media counts. The challenge provides a design file for both desktop and mobile views.
