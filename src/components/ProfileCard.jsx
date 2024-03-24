@@ -13,7 +13,7 @@ const ProfileCard = () => {
             <p>
               <strong>Victor Crest</strong>
             </p>
-            <p>26</p>
+            <p className="age">26</p>
           </div>
           <div>
             <p className="location">London</p>
