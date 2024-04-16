@@ -2,11 +2,11 @@ const ProfileCard = () => {
   return (
     <section>
       <article>
-        <img src="/images/bg-pattern-card.svg" alt="Card Illustration" />
+        <img src="./images/bg-pattern-card.svg" alt="Card Illustration" />
       </article>
       <article>
         <div className="image-container">
-          <img src="/images/image-victor.jpg" alt="Victor Crest Photo" />
+          <img src="./images/image-victor.jpg" alt="Victor Crest Photo" />
         </div>
         <div className="about-container">
           <div className="name-age-container">
